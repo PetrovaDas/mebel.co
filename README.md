@@ -3,6 +3,7 @@
 * [Ссылка на gh-pages]()
 * [Ссылка на макет в Figma]() 
 
+
 ![Group 2 (1)](https://github.com/niksander/mebel.co/assets/141334313/4efc593b-0c3b-4c24-bdea-b0ee2dc1141e)
 
 
