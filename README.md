@@ -3,8 +3,7 @@
 [Ссылка на gh-pages]()  |  [Ссылка на макет в Figma]()  
 
 
-
-![Group 2 (1)](https://github.com/niksander/mebel.co/assets/141334313/4efc593b-0c3b-4c24-bdea-b0ee2dc1141e)
+![Group 2 (2)](https://github.com/niksander/mebel.co/assets/141334313/82df5d03-e11c-4aa4-a62a-2218bb7d47ea)
 
 
 ## Структура проекта
